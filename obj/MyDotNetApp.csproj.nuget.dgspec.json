@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YT\\MyDotNetApp\\MyDotNetApp.csproj": {}
+    "D:\\YT\\MyDotNetApp\\my_dot_netApp\\MyDotNetApp.csproj": {}
   },
   "projects": {
-    "D:\\YT\\MyDotNetApp\\MyDotNetApp.csproj": {
+    "D:\\YT\\MyDotNetApp\\my_dot_netApp\\MyDotNetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YT\\MyDotNetApp\\MyDotNetApp.csproj",
+        "projectUniqueName": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\MyDotNetApp.csproj",
         "projectName": "MyDotNetApp",
-        "projectPath": "D:\\YT\\MyDotNetApp\\MyDotNetApp.csproj",
+        "projectPath": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\MyDotNetApp.csproj",
         "packagesPath": "C:\\Users\\abhishek.vishwakarma\\.nuget\\packages\\",
-        "outputPath": "D:\\YT\\MyDotNetApp\\obj\\",
+        "outputPath": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhishek.vishwakarma\\AppData\\Roaming\\NuGet\\NuGet.Config"

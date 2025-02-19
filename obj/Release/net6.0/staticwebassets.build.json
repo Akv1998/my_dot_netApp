@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aNzfCG6KAkeUqFJExC4hc7TFetYwCdnsyfpTKIe/S/A=",
+  "Hash": "7SGnvGfnOntOMvO2yjQ3+u2wgPl6alR/wnJ3VhTGmFs=",
   "Source": "MyDotNetApp",
   "BasePath": "_content/MyDotNetApp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyDotNetApp.styles.css",
+      "Identity": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\MyDotNetApp.styles.css",
       "SourceId": "MyDotNetApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MyDotNetApp",
       "RelativePath": "MyDotNetApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyDotNetApp.styles.css"
+      "OriginalItemSpec": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\bundle\\MyDotNetApp.styles.css"
     },
     {
-      "Identity": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyDotNetApp.bundle.scp.css",
+      "Identity": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\MyDotNetApp.bundle.scp.css",
       "SourceId": "MyDotNetApp",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MyDotNetApp",
       "RelativePath": "MyDotNetApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyDotNetApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\MyDotNetApp.bundle.scp.css"
     },
     {
       "Identity": "D:\\YT\\MyDotNetApp\\my_dot_netApp\\wwwroot\\css\\site.css",
